@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>Lua Profiler For Unity</h1>
+        <h1>Lua Profiler</h1>
         <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=f6d6a82c582431a4faf0be2d894c486247cada47f6d515d9a0225ce1ae04faff"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="LuaProfiler官方群" title="LuaProfiler官方群"></a>
       </div>
       <div id="particles-js"></div>
