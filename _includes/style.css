@@ -567,3 +567,5 @@ li.L9 {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.td{border:solid #add9c0; border-width:0px 1px 1px 0px; padding:10px 0px;}
+.table{border:solid #add9c0; border-width:1px 0px 0px 1px;}
