@@ -6,10 +6,8 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>BeiYuu</h1>
-        <a href="http://weibo.com/beiyuu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-        <a href="http://www.douban.com/people/beiyuu/" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
-        <a href="http://instagram.com/beiyuu/" target="_blank"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a>
+        <h1>Lua Profiler For Unity</h1>
+        <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=f6d6a82c582431a4faf0be2d894c486247cada47f6d515d9a0225ce1ae04faff"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="LuaProfiler官方群" title="LuaProfiler官方群"></a>
       </div>
       <div id="particles-js"></div>
     </div>
